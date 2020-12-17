@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Aisha Adam",
+    "description": "A fresh Graduate Information technology student at the Arab Open University. Interested in web development in different languages and frameworks.I like searching and learning new technologies such as applications of artificial intelligence and data science.  I aim to utilize my technical and managerial experiences to get a suitable job opportunity.  ",
+    "image": "charch.png",
+    "bio": "My name is Aisha, I'm a Junior Web Developer. Currently, I'm working as a freelancer in the E-Marketing.  ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "aisha.adem44@hotmail.com",
+    "phone": "+966 500396730",
+    "address": {
+      "city": "Riyadh",
+      "state": "SA"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1wxfOw_Z_H5DxGkVILfQJ88kqo5zSyZR-/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aisha-adam/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "https://github.com/aisha33",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Arab Open University",
+        "degree": "Bachelor of Information Technology and Computing ",
+        "graduated": "February 2019"
+      },
+      {
+        "school": " New Horizons Academy",
+        "degree": "Deploma of IT skills",
+        "graduated": "February 2015"
+      },
+      {
+        "school": " React Native school",
+        "graduated": " Dec 2020"
+      }
+    ],
+    "work": [
+      {
+        "company": "Sawim E-commerce Company",
+        "title": "Marketing speticialist",
+        "years": "March 2019 - Oct 2019",
+        "description": "Working at Sawim Company as a marketing specialist with several tasks:  Customers accounts and website management. •  Social media management and data entry. •  Cooperate with designers to create clean interfaces and simple, intuitive interactions and experiences"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs & react native",
+        "image1": "https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png"
+      },
+      {
+        "name": "CSS,Sass",
+        "image1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"
+      },
+      {
+        "name": "Git and Github",
+        "image1": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/141_Git_logo_logos-512.png"
+      },
+      {
+        "name": "Data analyase using python",
+        "image1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"
+      },
+      {
+        "name": "HTML5",
+        "image1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"
+      },
+      {
+        "name": "MongoDB",
+        "image1": "https://img.icons8.com/color/452/mongodb.png"
+      },
+      {
+        "name": "Bootstrap",
+        "image1": "https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png"
+      },
+      {
+        "name": "Technical support ",
+        "image1": "https://5zznly.com/d/Ye85i_technical-support-blue-flat-design-web-icon-M79CAR-removebg-preview.png"
+      },
+      {
+        "name": "Digital Marketing ",
+        "image1": "https://5zznly.com/d/GdkHO_seo-removebg-preview.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amzon Clone",
+        "category": "Amazon Clone built with built with ReactJS",
+        "image": "AmazonApp.jpg",
+        "url": "https://goofy-meitner-9cba7b.netlify.app/"
+      },
+      {
+        "title": "The menu of restaurant",
+        "category": "Create Menu using html, css and javascript",
+        "image": "menu.jpg",
+        "url": "https://stupefied-jennings-f1f199.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
