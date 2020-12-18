@@ -180,7 +180,7 @@ header .scrolldown a:hover {
 
 ul#nav {
   min-height: 48px;
-  width: 87%;
+  width: 100%;
   /* center align the men*/
   text-align: center;
 }
