@@ -32,10 +32,6 @@ class Header extends Component {
           </a>
 
           <ul id="nav" className="nav">
-            <a className="logo" href="">
-              <img src="https://5zznly.com/d/WItGx_logo1-removebg-preview.png" />
-            </a>
-
             <li className="current">
               <a className="smoothscroll" href="#home">
                 Home
