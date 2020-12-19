@@ -436,10 +436,9 @@
     margin-left: 14px;
   }
   .bars li em {
-  font: 13px "opensans-bold", sans-serif;
+  font: 12px "opensans-bold", sans-serif;
   color: #313131;
   text-transform: uppercase;
-  letter-spacing: 0.5px;
   font-weight: normal;
   position: relative;
   top: -15px;
