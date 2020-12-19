@@ -32,7 +32,7 @@ class About extends Component {
                 <h2>Contact Details</h2>
                 <p className="address">
                   <span>
-                    {name}<br />
+                    {name} <br />
                     {city} {state}
                   </span>
                   <br />
